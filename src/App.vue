@@ -26,6 +26,7 @@
             我的更多项目可以在<a href="https://github.com/liu-ziting" target="_blank">GitHub</a
             >上找到。我喜欢在业余时间写作教程、分享技术文章或参与开源项目的开发。欢迎Follow我，了解我的最新动态。
         </p>
+        <p>或加入我的<a href="https://discord.com/invite/mc6hPwPqZ7" target="_blank">Discord</a>社群一起沟通交流~</p>
         <p>除了编程，我还对骑行和滑板充满热情。</p>
     </div>
 </template>
